@@ -1,0 +1,20 @@
+{
+  "name": "sugo-i",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abcb2/sugo-i.git"
+  },
+  "keywords": [],
+  "author": "Kouji Watanabe <kouji.wtnb@gmail.com> (https://abcb2.github.io/blog)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/abcb2/sugo-i/issues"
+  },
+  "homepage": "https://github.com/abcb2/sugo-i#readme"
+}
